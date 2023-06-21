@@ -2,7 +2,7 @@
 
 This is a simple console application for managing animals and their owners. The app allows users to keep track of animal records, including information about the animals and their respective owners.
 
-##Features
+## Features
 - Add new animals.
 - Add new owners.
 - Assign owners to animals.
